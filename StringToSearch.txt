@@ -1,0 +1,12 @@
+stacktrace
+.println
+password
+base64
+readline
+request.getParameter
+req.getParameter
+MessageDigest
+DESKeySpec
+random
+getConnection
+jdbc
