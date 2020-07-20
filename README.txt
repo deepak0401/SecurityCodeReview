@@ -1,3 +1,6 @@
+Hi All,
+
+Below script is completely based on MS-DOS commands like findstr, dir, echo etc. Since this script uses only system commands, this can be run on any WINDOWS OS.
 
 Before script execution, please carefully read all below instructions.
 
